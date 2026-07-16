@@ -39,5 +39,5 @@ I am a motivated learner and aspiring data professional who enjoys turning raw d
 ## Contact
 
 If you are a recruiter, hiring manager, or collaborator interested in my work, I would be glad to connect and discuss my projects further.
-Email: shanmugamailbox@gmail.com
-Linkedin: https://www.linkedin.com/in/shan-g
+<br>Email: shanmugamailbox@gmail.com
+<br>Linkedin: https://www.linkedin.com/in/shan-g
